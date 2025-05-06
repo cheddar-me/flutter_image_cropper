@@ -44,4 +44,7 @@ android {
     if (project.android.hasProperty("namespace")) {
         namespace 'vn.hunghd.flutter.plugins.imagecropper'
     }
+    if (project.android.hasProperty("namespace")) {
+        namespace 'vn.hunghd.flutter.plugins.imagecropper'
+    }
 }
